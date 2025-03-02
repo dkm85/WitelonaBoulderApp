@@ -1,0 +1,29 @@
+{
+"routes" : [
+{
+"id": 0,
+"grade": "7a",
+"author": "dkm",
+"description": "",
+"holds": [
+{
+"x": 0.302,
+"y": 0.291,
+"radius": 0.014,
+"use": "start",
+"details": ["left_hand", "right_hand"]
+},
+{
+"x": 0.33,
+"y": 0.3,
+"radius": 0.014,
+"use": "start",
+"details": ["left_foot", "right_foot"]
+},
+{"x": 0.502, "y": 0.502, "radius": 0.02, "use": "regular"},
+{"x": 0.602, "y": 0.602, "radius": 0.018, "use": "optional"},
+{"x": 0.702, "y": 0.702, "radius": 0.022, "use": "top"}
+]
+}
+]
+}
