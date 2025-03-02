@@ -2,11 +2,11 @@
     "facilities" : [
         {
           "name": "Witelona Boulder",
-          "url": "some future url"
+          "url": "https://dkm85.github.io/WitelonaBoulderApp/WitelonaBoulder/routes.json"
         },
         {
           "name": "Bularz Lubin",
-          "url": "some future url"
+          "url": "https://dkm85.github.io/WitelonaBoulderApp/BularzLubin/routes.json"
         }
     ]
 }
