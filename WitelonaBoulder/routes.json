@@ -1,6 +1,7 @@
 {
     "name": "Witelona Boulder",
-    "main pic": "https://dkm85.github.io/WitelonaBoulderApp/WitelonaBoulder/PXL_20250210_215951872.PHOTOSPHERE.jpg",
+    "imageFilename" : "PXL_20250210_215951872.PHOTOSPHERE.jpg",
+    "imageUrl" : "https://dkm85.github.io/WitelonaBoulderApp/WitelonaBoulder/PXL_20250210_215951872.PHOTOSPHERE.jpg",
     "routes": [
         {
             "id": 0,
