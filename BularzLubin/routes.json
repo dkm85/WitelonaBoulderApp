@@ -10,7 +10,7 @@
                 {
                     "x": 241.6,
                     "y": 116.4,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "LEFT HAND",
@@ -20,7 +20,7 @@
                 {
                     "x": 264,
                     "y": 120,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "LEFT FOOT",
@@ -30,19 +30,19 @@
                 {
                     "x": 401.6,
                     "y": 200.8,
-                    "radius": 0.02,
+                    "radius": 25,
                     "use": "REGULAR"
                 },
                 {
                     "x": 481.6,
                     "y": 240.8,
-                    "radius": 0.018,
+                    "radius": 18,
                     "use": "OPTIONAL"
                 },
                 {
                     "x": 561.6,
                     "y": 280.8,
-                    "radius": 0.022,
+                    "radius": 22,
                     "use": "TOP"
                 }
             ]
