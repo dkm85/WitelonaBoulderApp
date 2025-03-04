@@ -10,7 +10,7 @@
                 {
                     "x": 241.6,
                     "y": 116.4,
-                    "radius": 0.014,
+                    "radius": 15,
                     "use": "START",
                     "details": [
                         "LEFT HAND",
@@ -20,7 +20,7 @@
                 {
                     "x": 264,
                     "y": 120,
-                    "radius": 0.014,
+                    "radius": 15,
                     "use": "START",
                     "details": [
                         "LEFT FOOT",
@@ -30,19 +30,19 @@
                 {
                     "x": 401.6,
                     "y": 200.8,
-                    "radius": 0.02,
+                    "radius": 15,
                     "use": "REGULAR"
                 },
                 {
                     "x": 481.6,
                     "y": 240.8,
-                    "radius": 0.018,
+                    "radius": 10,
                     "use": "OPTIONAL"
                 },
                 {
                     "x": 561.6,
                     "y": 280.8,
-                    "radius": 0.022,
+                    "radius": 19,
                     "use": "TOP"
                 }
             ]
@@ -56,7 +56,7 @@
                 {
                     "x": 401.6,
                     "y": 200,
-                    "radius": 0.022,
+                    "radius": 22,
                     "use": "TOP"
                 }
             ]
@@ -70,25 +70,25 @@
                 {
                     "x": 401.6,
                     "y": 156.4,
-                    "radius": 0.022,
+                    "radius": 22,
                     "use": "TOP"
                 },
                 {
                     "x": 401.6,
                     "y": 156.4,
-                    "radius": 0.018,
+                    "radius": 18,
                     "use": "OPTIONAL"
                 },
                 {
                     "x": 481.6,
                     "y": 156.4,
-                    "radius": 0.02,
+                    "radius": 25,
                     "use": "REGULAR"
                 },
                 {
                     "x": 561.6,
                     "y": 80.4,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "LEFT HAND"
@@ -97,7 +97,7 @@
                 {
                     "x": 561.6,
                     "y": 116.4,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "RIGHT HAND"
@@ -106,7 +106,7 @@
                 {
                     "x": 721.6,
                     "y": 156.4,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "RIGHT FOOT"
@@ -115,7 +115,7 @@
                 {
                     "x": 721.6,
                     "y": 165.6,
-                    "radius": 0.014,
+                    "radius": 14,
                     "use": "START",
                     "details": [
                         "LEFT FOOT"
@@ -132,13 +132,13 @@
                 {
                     "x": 81.6,
                     "y": 316.4,
-                    "radius": 0.022,
+                    "radius": 22,
                     "use": "TOP"
                 },
                 {
                     "x": 121.6,
                     "y": 316.4,
-                    "radius": 0.018,
+                    "radius": 18,
                     "use": "OPTIONAL"
                 }
             ]
