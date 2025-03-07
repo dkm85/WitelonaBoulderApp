@@ -2,11 +2,11 @@
     "facilities" : [
         {
           "name": "Witelona Boulder",
-          "directory": "WitelonaBoulder"
+          "directory": "witelonaboulder"
         },
         {
           "name": "Bularz Lubin",
-          "directory": "BularzLubin"
+          "directory": "bularzlubin"
         }
     ]
 }
