@@ -1,0 +1,24 @@
+{
+    "holds": [
+        {
+            "top": 32,
+            "left": 32,
+            "radius": 0.02,
+            "type": "START",
+            "details": [
+                "LEFT HAND",
+                "RIGHT HAND"
+            ]
+        },
+        {
+            "top": 50,
+            "left": 50,
+            "radius": 0.022,
+            "type": "START",
+            "details": [
+                "LEFT FOOT",
+                "RIGHT FOOT"
+            ]
+        }
+    ]
+}
