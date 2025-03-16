@@ -4,7 +4,7 @@
             "id": 1,
             "top": 32,
             "left": 32,
-            "radius": 0.02,
+            "radius": 1,
             "type": "START",
             "details": [
                 "LEFT HAND",
@@ -15,7 +15,7 @@
             "id": 2,
             "top": 50,
             "left": 50,
-            "radius": 0.022,
+            "radius": 1,
             "type": "START",
             "details": [
                 "LEFT FOOT",
